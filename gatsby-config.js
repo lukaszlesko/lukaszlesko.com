@@ -30,7 +30,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-s3`,
         options: {
-        bucketName: "luiluigiani.com",
+          bucketName: "lukaszlesko.com",
         },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

@@ -1,1 +1,8 @@
-# luiluigiani.com
+# lukaszlesko.com
+
+Deploy:
+
+```
+make deploy
+```
+
