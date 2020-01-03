@@ -7,3 +7,6 @@ build:
 deploy_to_s3:
 	AWS_PROFILE=lui npm run deploy -y
 
+development:
+	npm run start
+

@@ -35,6 +35,16 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    `gatsby-plugin-offline`,
+    //`gatsby-plugin-offline`,
+    {
+        resolve: `gatsby-plugin-segment-js`,
+        options: {
+            prodKey: 'BvND4dY6m7aR6kX3XQmLYmqojec9Lvvj',
+            devKey: 'oyUex6Nz0dgppZXYg3DMixHjyJjQzGqX',
+            trackPage: true,
+            delayLoad: false,
+            delayLoadTime: 1000
+        }
+    },
   ],
 }
