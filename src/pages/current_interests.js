@@ -8,8 +8,10 @@ const IndexPage = () => (
         <SEO title="Current interests" />
         <h1>Current interests</h1>
         <ul>
-            <li>Learning how to learn</li>
-            <li>Gatsby</li>
+            <li>General: Learning how to learn</li>
+            <li>Product management: data analysis, goals & metrics</li>
+            <li>Engineering: Gatsby</li>
+            <li>Engineering: GraphQL</li>
         </ul>
     </Layout>
 )
