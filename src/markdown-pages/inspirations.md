@@ -1,6 +1,8 @@
 ---
 path: "/inspirations"
-title: "Inspirations"
+title: Inspirations
+description: inspirations
+contentType: page
 ---
 
 TODO

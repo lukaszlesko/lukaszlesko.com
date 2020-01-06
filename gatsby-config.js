@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `luiluigiani`,
-        short_name: `lui`,
+        name: `lukaszlesko`,
+        short_name: `lukasz`,
         start_url: `/`,
         background_color: `#000000`,
         theme_color: `#000000`,

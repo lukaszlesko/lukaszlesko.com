@@ -1,6 +1,8 @@
 ---
 path: /current-interests
 title: Current interests
+description: stuff I'm learning nowadays
+contentType: page
 ---
 
 - General: Learning how to learn
