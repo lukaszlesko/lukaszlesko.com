@@ -5,5 +5,14 @@ description: inspirations
 contentType: page
 ---
 
-TODO
+### Brands I follow
+
+- brew
+- vim
+- gitlab
+- Adyen
+- Apple
+- Ubuntu
+- Sekurak
+- AWS
 

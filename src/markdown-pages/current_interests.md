@@ -5,7 +5,8 @@ description: stuff I'm learning nowadays
 contentType: page
 ---
 
-- General: Learning how to learn
+- Personal: Learning how to learn
+- Personal: Piano
 - Product managements: data analysis, goals & metrics
 - Engineering: Gatsby
 - Engineering: GraphQL
