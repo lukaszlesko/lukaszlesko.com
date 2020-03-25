@@ -7,6 +7,12 @@ contentType: page
 
 ### Brands I follow
 
+#### Update 25.03.2020
+
+- Kubernetes
+- Django
+- ThoughtWorks
+
 #### Update 27.02.2020
 
 - Mozilla Developer Network (MDN)
