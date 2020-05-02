@@ -7,6 +7,11 @@ contentType: page
 
 ### Brands I follow
 
+### Update 2.05.2020
+
+- Etherpad
+- Elastic
+
 #### Update 25.03.2020
 
 - Kubernetes

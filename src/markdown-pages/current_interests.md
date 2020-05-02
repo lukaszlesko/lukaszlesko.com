@@ -5,10 +5,10 @@ description: stuff I'm learning nowadays
 contentType: page
 ---
 
-- Personal: Learning how to learn
-- Personal: Piano
-- Product managements: data analysis, goals & metrics
-- Engineering: Gatsby
-- Engineering: GraphQL
-- Engineering: Clean architecture
+## Interests
 
+- Personal: learning, dogs, technology, product management  
+- Personal: piano, writing, sharing knowledge
+- Product: OKRs, user testing
+- Engineering: Software architecture
+- Engineering: AI/ML, Python
