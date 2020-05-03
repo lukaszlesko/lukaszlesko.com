@@ -3,6 +3,7 @@ path: /publications/product-owner-cheat-sheet-to-start-initiatives-smoothly
 title: Product Owner cheat sheet to start initiatives smoothly
 description: Simple 3 steps to start your initiative right away without losing time!
 contentType: publication
+created: 2019-12-15
 ---
 
 Product Owner (or Product Manager), in short, is a person responsible for the success of some investment.

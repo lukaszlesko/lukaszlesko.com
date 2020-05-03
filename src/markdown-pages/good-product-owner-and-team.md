@@ -3,6 +3,7 @@ path: /publications/good-product-owner-and-team
 title: Can you be a good Product Owner without a great team? I don’t think so.
 description: One important thought from today that I want to keep in here also for myself to remember that it’s amazingly important.
 contentType: publication
+created: 2020-03-11
 ---
 
 One important thought from today that I want to keep in here also for myself to remember that it’s amazingly important.

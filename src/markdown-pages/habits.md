@@ -3,11 +3,8 @@ path: /publications/habits
 title: Habits
 description: List of habits I follow or I would like to follow. 
 contentType: publication
+created: 2020-02-29
 ---
-
-(draft)
-
-29.02.2020
 
 Based on first article [/publications/sleep-habit] here I would like
 to extend from time to time list of habits that I find useful to implement into

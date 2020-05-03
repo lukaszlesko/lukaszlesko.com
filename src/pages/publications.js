@@ -25,6 +25,7 @@ export const pageQuery = graphql`
     query {
         allMarkdownRemark(
             filter: { frontmatter: {contentType: {eq: "publication"}} }
+            sort: {fields: frontmatter___created, order: DESC}
         ) {
             edges {
                 node {
@@ -34,6 +35,7 @@ export const pageQuery = graphql`
                         title
                         description
                         contentType
+                        created
                     }
                 }
             }

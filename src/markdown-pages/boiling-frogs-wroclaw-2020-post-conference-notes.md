@@ -3,11 +3,8 @@ path: /publications/boiling-frogs-wroclaw-2020-post-conference-notes
 title: Notes after being at Boiling Frogs 2020 conference in Wroclaw 
 description: Because of private stuff I was able to attend only 3 presentationss, but it's worth to share them and remember 
 contentType: publication
+created: 2020-03-24
 ---
-
-(draft)
-
-24.03.2020
 
 ## n-layered domain models
 

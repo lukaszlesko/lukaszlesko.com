@@ -3,6 +3,7 @@ path: /publications/brainstorm-effectively-example-plan-for-your-workshop-meetin
 title: Brainstorm effectively - example plan for your workshop meeting
 description: Example Objectives and goals workshop plan based on OGSM in just 2 hours.
 contentType: publication
+created: 2020-04-10
 ---
 
 ### Preparation phase

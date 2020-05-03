@@ -3,9 +3,8 @@ path: /publications/sleep-habit
 title: Sleep habit
 description: I decided to fight with my bad sleeping habits and to use advices from "Why We Sleep" book by Mather Walker. See why and what I'm doing to have a better sleep after reading this book. 
 contentType: publication
+created: 2020-02-29 
 ---
-
-29.02.2020
 
 ### Background
 

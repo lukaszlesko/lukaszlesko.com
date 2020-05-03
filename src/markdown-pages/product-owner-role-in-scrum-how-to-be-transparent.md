@@ -3,9 +3,8 @@ path: /publications/product-owner-in-scrum-how-to-deliver-transparency
 title: Product Owner role in Scrum - how to deliver transparency
 description: Do you think that Product Owner should work in transparent way... and how to achieve that simple proposal.
 contentType: publication
+created: 2020-04-02
 ---
-
-(draft 2.04.2020 morning)
 
 Yesterday I had a very nice talk with good Product Owner and we were
 wondering what and how you can boost your transparency as a PO

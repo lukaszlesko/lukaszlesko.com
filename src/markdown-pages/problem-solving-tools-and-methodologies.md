@@ -3,9 +3,8 @@ path: /publications/problem-solving-methodologies-and-tools
 title: Problem solving methodologies and tools (idea draft and intro)
 description: I've read an article about remote Event Storming and it inspired me to start writing a series of articles about tools and methodologies than can be used by anyone to speed up his workflow and deliver products faster without making known mistakes. 
 contentType: publication
+created: 2020-03-29
 ---
-
-(draft 29.03.2020 morning)
 
 I've read an article about remote Event Storming (https://blog.avanscoperta.it/it/2020/03/26/remote-eventstorming/)
 and it inspired me to start writing

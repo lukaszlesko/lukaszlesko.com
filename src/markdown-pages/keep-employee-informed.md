@@ -3,6 +3,7 @@ path: /publications/keep-people-informed
 title: Keep people informed to be seen as a great leader
 description: At many stages of my career I found that best results and best atmosphere was connected to how well people were informed. Learn & see real-life examples to become a better leader.
 contentType: publication
+created: 2020-03-10
 ---
 
 
