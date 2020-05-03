@@ -9,22 +9,14 @@ const IndexPage = () => (
     <section>
         <h1>Hi, I'm Łukasz Leśko</h1>
         <p>
-            I want to be always highly concentrated on WHY I'm doing stuff,
-            helping myself and team GET OUT OF COMFORT ZONE
-            and POKING THE BOX as a way to find solutions.
+            I want to be always highly concentrated on why I'm doing stuff,
+            helping myself and team get out of comfort zone
+            and poke the box as a way to find solutions.
         </p>
-        
         <p>
-            But most of all - I'm a <strong>dogs lover</strong>.
+            I love to learn new stuff and I'm a huge fan of all dogs around the world ♡
+            Happy that someone in the past discovered and introduced **chess** into our world.
         </p>
-
-        <figure>
-            <blockquote>
-                "I want to love like a dog, with unabashed devotion and complete lack of concern about what people do for a living, how much money they have, or how much they weigh."
-            </blockquote>
-            <figcaption>Oprah Winfrey</figcaption>
-        </figure>
-
     </section>
 
     <section>
@@ -35,6 +27,10 @@ const IndexPage = () => (
         <p>
             Graduated in 2012 as an Bachelor of Engineering in Wroclaw University of Technology
             at Faculty of Fundamental Technical Problems (Computer Science).
+        </p>
+        <p>
+            With programming connected for over 15 years, with special dedication to Python - to its power and simplicity 💪
+            Software developer, software architect, Product Owner, Scrum Master, IT Lead.
         </p>
     </section>
 
@@ -56,11 +52,25 @@ const IndexPage = () => (
         </p>
 
         <ul>
-            <li>Python, Django.</li>
-            <li>JavaScript.</li>
-            <li>PostgreSQL.</li>
-            <li>Amazon Web Services, Docker.</li>
-            <li>Scrum, Agile, Lean Startup.</li>
+            <li>Python, Django</li>
+            <li>TDD</li>
+            <li>JavaScript</li>
+            <li>PostgreSQL</li>
+            <li>MongoDB</li>
+            <li>ElasticSearch</li>
+        </ul>
+
+        <h3>Operations</h3>
+
+        <p>
+            Since always interested in servers, Linux and infrastructure
+            needed to run services smoothly.
+        </p>
+
+        <ul>
+            <li>Amazon Web Services</li>
+            <li>Docker</li>
+            <li>Kubernetes</li>
         </ul>
 
         <h3>Product management</h3>
@@ -74,6 +84,23 @@ const IndexPage = () => (
         <p>
             Since 2003 started to work with products,
             combining technical and business knowledge and experience.
+        </p>
+
+        <ul>
+            <li>Scrum and Agile evangelist</li>
+            <li>Lean Startup lover</li>
+            <li>Sprint in 5 days</li>
+            <li>Goals oriented (OKRs, 4DX, OGSM)</li>
+        </ul>
+
+        <h3>Team management</h3>
+
+        <p>
+            Love to build and work within great teams.
+            I strongly believe that team is one the most important ingredient
+            needed to cook a success. Worked succesfully as a team manager
+            for a teams consiting of sysadmins, Scrum Masters, QAs, android/iOS developers,
+            frontend (JavaScript) and backend (Python) developers.
         </p>
     </section>
     

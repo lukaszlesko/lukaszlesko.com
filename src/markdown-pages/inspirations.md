@@ -7,7 +7,7 @@ contentType: page
 
 ### Brands I follow
 
-### Update 2.05.2020
+#### Update 2.05.2020
 
 - Etherpad
 - Elastic
