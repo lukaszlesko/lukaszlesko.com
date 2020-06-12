@@ -7,6 +7,11 @@ contentType: page
 
 ### Brands I follow
 
+#### Update 6.12.2020
+
+- Bootstrap
+- OpenJS Foundation
+
 #### Update 2.05.2020
 
 - Etherpad

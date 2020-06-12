@@ -12,3 +12,4 @@ contentType: page
 - Product: OKRs, user testing
 - Engineering: Software architecture
 - Engineering: AI/ML, Python
+- Math: Linear algebra
