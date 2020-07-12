@@ -6,4 +6,9 @@ contentType: publication
 created: 2020-07-04
 ---
 
-...
+- Native Swift
+- Native Kotlin
+- React Native
+- Flutter
+- Progressive Web Apps
+- Other?

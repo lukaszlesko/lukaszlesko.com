@@ -5,39 +5,45 @@ description: inspirations
 contentType: page
 ---
 
-### Brands I follow
+## Stuff I use
 
-#### Update 6.12.2020
+### Python
+
+- Django
+- pytest
+- ...
+
+### JavaScript, HTML, CSS
 
 - Bootstrap
-- OpenJS Foundation
+- ...
 
-#### Update 2.05.2020
+### SysAdmin
 
-- Etherpad
-- Elastic
-
-#### Update 25.03.2020
-
+- Amazon Web Services
 - Kubernetes
-- Django
-- ThoughtWorks
+- Terraform
+- ...
 
-#### Update 27.02.2020
-
-- Mozilla Developer Network (MDN)
-- Open Source Initiative (OSI)
-- Google Chrome
-- Python programming language
-
-#### Initial list
+### DevStack
 
 - brew
-- vim
-- gitlab
+- ...
+
+## Stuff I used in the past
+
+- PHP
+- ...
+
+## Cool companies
+
+- OpenJS Foundation
+- Elastic
+- ThoughtWorks
+- Mozilla Developer Network (MDN)
+- Open Source Initiative (OSI)
+- Gitlab
 - Adyen
 - Apple
 - Ubuntu
 - Sekurak
-- AWS
-
