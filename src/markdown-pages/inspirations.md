@@ -16,6 +16,8 @@ contentType: page
 ### JavaScript, HTML, CSS
 
 - Bootstrap
+- React Native
+- Jest
 - ...
 
 ### SysAdmin
@@ -23,6 +25,11 @@ contentType: page
 - Amazon Web Services
 - Kubernetes
 - Terraform
+- Fluentd
+- Prometheus
+- ELK
+- Sentry
+- 
 - ...
 
 ### DevStack
@@ -47,3 +54,4 @@ contentType: page
 - Apple
 - Ubuntu
 - Sekurak
+- CNCF
